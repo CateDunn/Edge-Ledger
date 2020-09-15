@@ -58,6 +58,10 @@
 }
 
 /* Flex Columns */
+#blog .row {
+  flex-direction: row-reverse;
+}
+
 .flex-columns .row {
   display: flex;
   flex-direction: row;
@@ -138,3 +142,4 @@
   padding: 10px 0;
   height: 244px;
 }
+
