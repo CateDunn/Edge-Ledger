@@ -112,6 +112,15 @@ img {
 z-index: 10;
 }
 
+.hero.blog {
+  background: url('../img/home/blog.jpg') no-repeat center center/cover;
+  height: 30vh;
+}
+
+#blog-2 article {
+  flex-direction: row-reverse;
+}
+
 /* Icons */
 .icons {
   padding: 30px;
