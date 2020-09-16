@@ -69,6 +69,9 @@ img {
   font-weight: 400;
 }
 
+.navbar.top {
+  background: transparent;
+}
 /* Header */
 .hero {
   background: url('../img/home/showcase.jpg') no-repeat center center/cover;
